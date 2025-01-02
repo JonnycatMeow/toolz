@@ -23,7 +23,7 @@
 ||advertising.amazon.com^
 ||images-na.ssl-images-amazon.com^
 ||*.execute-api.us-east-1.amazonaws.com^
-||*.amazon-adsystem.com^
+||*.amazon-adsystem.com/$domain=twitch.tv^
 ||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^
 ||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^
 
@@ -171,8 +171,10 @@
 ||darnuid.imrworldwide.com^
 ||servedby.flashtalking.com^
 ||www.flashtalking.com^
-||video-edge-c34a6f.pdx01.abs.hls.ttvnw.net^
+||video-edge-c34a6f.pdx01.abs.hls.ttvnw.net/$domain=twitch.tv^
 ||jtvnw.twitchcdn.net^
+||spade.sci.twitch.tv^
+||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^
 
 !============ Mix =============
 
