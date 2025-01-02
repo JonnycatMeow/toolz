@@ -38,11 +38,10 @@
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
-||ad.doubleclick.net^
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
-||doubleclick.net^
+||*.doubleclick.net^
 ||www.doubleclick.net^
 
 ! --- Adcolony
