@@ -158,7 +158,11 @@
 ||api.twitch.tv^
 ||static.twitchcdn.net^
 ||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^
-||darnuid.imrworldwide.com
+||darnuid.imrworldwide.com^
+||edge.ads.twitch.tv^
+||edge-beta.ads.twitch.tv^
+||origin.edge-beta.ads.twitch.tv^
+||origin.edge.ads.twitch.tv^
 
 !============ Mix =============
 
