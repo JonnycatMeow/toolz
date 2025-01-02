@@ -170,7 +170,6 @@
 ||servedby.flashtalking.com^
 ||www.flashtalking.com^
 ||firebaselogging-pa.googleapis.com^
-||js.captcha-display.com^
 ||video-edge-c34a6f.pdx01.abs.hls.ttvnw.net^
 ||video-edge-4d7d13.sjc05.hls.live-video.net^
 ||sb.scorecardresearch.com^
@@ -256,15 +255,6 @@
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
-||mask.icloud.com^
-||mask-h2.icloud.com^
-||mask-canary.icloud.com^
-||apple-relay.cloudflare.com^
-||apple-relay.fastly-edge.com^
-||doh.dns.apple.com^
-||doh.dns.apple.com.v.aaplimg.com^
-||mask-api.icloud.com^
-||mask.apple-dns.net^
 
 *$3p,domain=d3ward.github.io
 /pagead.js$domain=d3ward.github.io
