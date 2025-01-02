@@ -22,6 +22,7 @@
 ||aws.amazon.com^
 ||advertising.amazon.com^
 ||images-na.ssl-images-amazon.com^
+||*.execute-api.us-east-1.amazonaws.com
 
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
@@ -173,7 +174,7 @@
 ||video-edge-4d7d13.sjc05.hls.live-video.net^
 ||sb.scorecardresearch.com^
 ||s.amazon-adsystem.com^
-||gql.twitch.tv^
+||jtvnw.twitchcdn.net^
 
 !============ Mix =============
 
