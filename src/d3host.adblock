@@ -19,6 +19,8 @@
 ||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
 ||amazonaws.com^
+||aws.amazon.com^
+||advertising.amazon.com^
 
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
@@ -143,6 +145,11 @@
 ||ads.tiktok.com^
 ||log.byteoversea.com^
 
+! --- Twitch
+||static-cdn.jtvnw.net^
+||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^
+||execute-api.us-east-1.amazonaws.com^
+||api.twitch.tv
 
 !============ Mix =============
 
