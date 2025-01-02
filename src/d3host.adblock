@@ -155,7 +155,6 @@
 ! --- Twitch
 ||static-cdn.jtvnw.net^
 ||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^
-||execute-api.us-east-1.amazonaws.com^
 ||api.twitch.tv^
 ||static.twitchcdn.net^
 ||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^
