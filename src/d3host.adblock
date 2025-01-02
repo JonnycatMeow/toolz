@@ -22,7 +22,7 @@
 ||aws.amazon.com^
 ||advertising.amazon.com^
 ||images-na.ssl-images-amazon.com^
-||*.execute-api.us-east-1.amazonaws.com
+||*.execute-api.us-east-1.amazonaws.com^
 
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
