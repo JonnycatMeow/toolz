@@ -23,6 +23,9 @@
 ||advertising.amazon.com^
 ||images-na.ssl-images-amazon.com^
 ||*.execute-api.us-east-1.amazonaws.com^
+||*.amazon-adsystem.com^
+||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^
+||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^
 
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
@@ -36,6 +39,7 @@
 ||ns2.google.com^
 ||ns3.google.com^
 ||ns4.google.com^
+||firebaselogging-pa.googleapis.com^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
@@ -64,6 +68,11 @@
 ||click.googleanalytics.com^
 ||google-analytics.com^
 ||ssl.google-analytics.com^
+
+! --- Google static 
+||www.gstatic.com^
+||connectivitycheck.gstatic.com^
+
 
 ! --- Hotjar
 ||adm.hotjar.com^
@@ -153,27 +162,16 @@
 
 ! --- Twitch
 ||static-cdn.jtvnw.net^
-||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^
 ||api.twitch.tv^
 ||static.twitchcdn.net^
-||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^
-||darnuid.imrworldwide.com^
 ||edge.ads.twitch.tv^
 ||edge-beta.ads.twitch.tv^
 ||origin.edge-beta.ads.twitch.tv^
 ||origin.edge.ads.twitch.tv^
-||secure-sts-prod.imrworldwide.com^
-||9938a59b-31fa-4126-a724-d8dd7543b209.darnuid.imrworldwide.com^
-||00000000-0000-0000-0000-000000000000.redinuid.imrworldwide.com^
 ||darnuid.imrworldwide.com^
-||tp.2632ce734-frontier.amazon-adsystem.com^
 ||servedby.flashtalking.com^
 ||www.flashtalking.com^
-||firebaselogging-pa.googleapis.com^
 ||video-edge-c34a6f.pdx01.abs.hls.ttvnw.net^
-||video-edge-4d7d13.sjc05.hls.live-video.net^
-||sb.scorecardresearch.com^
-||s.amazon-adsystem.com^
 ||jtvnw.twitchcdn.net^
 
 !============ Mix =============
