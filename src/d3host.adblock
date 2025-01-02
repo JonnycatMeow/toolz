@@ -37,7 +37,7 @@
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
 ||doubleclick.net^
-||www.doubleclick.net
+||www.doubleclick.net^
 
 ! --- Adcolony
 ||ads30.adcolony.com^
@@ -149,7 +149,7 @@
 ||static-cdn.jtvnw.net^
 ||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^
 ||execute-api.us-east-1.amazonaws.com^
-||api.twitch.tv
+||api.twitch.tv^
 
 !============ Mix =============
 
