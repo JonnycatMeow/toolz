@@ -21,6 +21,7 @@
 ||amazonaws.com^
 ||aws.amazon.com^
 ||advertising.amazon.com^
+||amazon-adsystem.com^
 
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
@@ -29,6 +30,11 @@
 ||afs.googlesyndication.com^
 ||googleadservices.com^
 ||www.googleadservices.com^
+||smtp.google.com^
+||ns1.google.com^
+||ns2.google.com^
+||ns3.google.com^
+||ns4.google.com^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
@@ -150,6 +156,9 @@
 ||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^
 ||execute-api.us-east-1.amazonaws.com^
 ||api.twitch.tv^
+||static.twitchcdn.net^
+||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^
+||darnuid.imrworldwide.com
 
 !============ Mix =============
 
