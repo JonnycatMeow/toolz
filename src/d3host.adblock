@@ -17,6 +17,7 @@
 ||advice-ads.s3.amazonaws.com^
 ||*.amazon-adsystem.com^
 ||ivs-berryessa-edge-alb-1756416733.us-west-2.elb.amazonaws.com^
+
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
