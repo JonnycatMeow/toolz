@@ -1,5 +1,4 @@
 ! Title: d3Host List by d3ward
-! Expires: 1 days
 ! Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services
 ! Homepage: https://github.com/d3ward/toolz
 ! License: CC BY-NC-SA
@@ -17,7 +16,7 @@
 ||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
 ||*.amazon-adsystem.com^
-
+||ivs-berryessa-edge-alb-1756416733.us-west-2.elb.amazonaws.com^
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
