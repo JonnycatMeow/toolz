@@ -145,6 +145,7 @@
 ||*.sjc05.hls.live-video.net^
 ||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^ 
 ||*.pdx01.abs.hls.ttvnw.net^ 
+||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^
 
 
 !============ Mix =============
