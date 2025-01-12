@@ -25,6 +25,7 @@
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
 ||tpc.googlesyndication.com^
+||firebaselogging-pa.googleapis.com^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
