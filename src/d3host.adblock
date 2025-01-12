@@ -23,6 +23,7 @@
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
+||tpc.googlesyndication.com^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
@@ -30,6 +31,9 @@
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
+||googleads.g.doubleclick.net^
+||pubads.g.doubleclick.net^
+
 
 ! --- Adcolony
 ||ads30.adcolony.com^
